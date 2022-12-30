@@ -5,8 +5,8 @@ export class Homesection extends Component {
   render() {
     return (
       <div className="row ">
-        <div className="col-3 bg-primary">
-          <div class="overflow-auto" style={{height: '100vh',width: '18rem'}}>
+        <div className="col-3 bg-dark">
+          <div class="overflow-auto" style={{height: '100vh',width: '20rem'}}>
             {/* _______________________________________________________________________________________ */}
             <div class="card m-auto" style={{ width: "18rem" }}>
               <img src="..." class="card-img-top" alt="..." />
