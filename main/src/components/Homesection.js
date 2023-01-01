@@ -17,7 +17,7 @@ export default function Homesection(props) {
               <div className="card-body">
                 <h5 className="card-title">Card title</h5>
                
-                <a href="/villdis" id="mudangtage" onClick={props.moreabvill} className="btn btn-primary">
+                <a href="/villdis" id="mudangtage" onClick={props.moreabvill("taGE")} className="btn btn-primary">
                   learn more
                 </a>
               </div>
@@ -35,7 +35,7 @@ export default function Homesection(props) {
               <div className="card-body">
                 <h5 className="card-title">Card title</h5>
                
-                <a href="/villdis" id="bulla" onClick={props.moreabvill} className="btn btn-primary">
+                <a href="/villdis" id="bulla" onClick={props.moreabvill("mudang")} className="btn btn-primary">
                   learn more
                 </a>
               </div>
