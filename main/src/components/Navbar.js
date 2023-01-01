@@ -10,9 +10,9 @@ export default function Navbar() {
       
 
         <ul className="navcontainer">
-          <div className="title"><h3><a href="#">AllZiro </a></h3></div>
+          <div className="title"><h3><a href="/">AllZiro </a></h3></div>
   
-          <li><a href="#">Home</a></li>
+          <li><a href="/">Home</a></li>
           <li><a href="#">about</a></li>
           <li><a href="#">contact us</a></li>
         </ul>
