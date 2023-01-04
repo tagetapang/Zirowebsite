@@ -1,29 +1,31 @@
 import "./App.css";
 import Navbar from "./components/Navbar";
-import { useState } from "react";
+
 import Homesection from "./components/Homesection";
 import { BrowserRouter, Routes, Route }from "react-router-dom";
-import Villdis from "./components/Villdis";
+import Mudangtage from "./components/aboutvillages/Mudangtage";
+import Footer from "./components/Footer";
+import Hija from "./components/aboutvillages/Hija";
+
 
 
 function App() {
-  const[villname,setvillname] = useState({title: "try"})
-  const moreabvill =(stringg) =>{
-    console.log("running")
-
-  }
+  
   return (
     <>
       <Navbar />
       <BrowserRouter>
         <Routes>
-            <Route path="/" element={<Homesection moreabvill = {moreabvill} />}/>
-            <Route path = "/villdis" element={<Villdis villnamee = {villname.title}/>}/>
+            <Route exact path="/" element={<Homesection />}/>
+            <Route exact path="/mudangtage" element={<Mudangtage/>}/>
+            <Route exact path ="/hija" element={<Hija/>}/>
+           
             
 
           
         </Routes>
       </BrowserRouter>
+      <Footer/>
     </>
   );
 }
