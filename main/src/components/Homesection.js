@@ -43,6 +43,120 @@ export default function Homesection(props) {
           </div>
           {/* _______________________________________________________________________ */}
           
+          {/* _______________________________________________________________________ */}
+          <div className="carditems">
+            <div className="card m-auto">
+              <img
+                className="card-img-top"
+                src={example}
+                alt="Card cap"
+              />
+              <div className="card-body">
+                <h5 className="card-title">Card title</h5>
+               
+                <a href="/villdis" id="bulla" onClick={props.moreabvill("mudang")} className="btn btn-primary">
+                  learn more
+                </a>
+              </div>
+            </div>
+          </div>
+          {/* _______________________________________________________________________ */}
+          
+          {/* _______________________________________________________________________ */}
+          <div className="carditems">
+            <div className="card m-auto">
+              <img
+                className="card-img-top"
+                src={example}
+                alt="Card cap"
+              />
+              <div className="card-body">
+                <h5 className="card-title">Card title</h5>
+               
+                <a href="/villdis" id="bulla" onClick={props.moreabvill("mudang")} className="btn btn-primary">
+                  learn more
+                </a>
+              </div>
+            </div>
+          </div>
+          {/* _______________________________________________________________________ */}
+          
+          {/* _______________________________________________________________________ */}
+          <div className="carditems">
+            <div className="card m-auto">
+              <img
+                className="card-img-top"
+                src={example}
+                alt="Card cap"
+              />
+              <div className="card-body">
+                <h5 className="card-title">Card title</h5>
+               
+                <a href="/villdis" id="bulla" onClick={props.moreabvill("mudang")} className="btn btn-primary">
+                  learn more
+                </a>
+              </div>
+            </div>
+          </div>
+          {/* _______________________________________________________________________ */}
+          
+          {/* _______________________________________________________________________ */}
+          <div className="carditems">
+            <div className="card m-auto">
+              <img
+                className="card-img-top"
+                src={example}
+                alt="Card cap"
+              />
+              <div className="card-body">
+                <h5 className="card-title">Card title</h5>
+               
+                <a href="/villdis" id="bulla" onClick={props.moreabvill("mudang")} className="btn btn-primary">
+                  learn more
+                </a>
+              </div>
+            </div>
+          </div>
+          {/* _______________________________________________________________________ */}
+          
+          {/* _______________________________________________________________________ */}
+          <div className="carditems">
+            <div className="card m-auto">
+              <img
+                className="card-img-top"
+                src={example}
+                alt="Card cap"
+              />
+              <div className="card-body">
+                <h5 className="card-title">Card title</h5>
+               
+                <a href="/villdis" id="bulla" onClick={props.moreabvill("mudang")} className="btn btn-primary">
+                  learn more
+                </a>
+              </div>
+            </div>
+          </div>
+          {/* _______________________________________________________________________ */}
+          
+          {/* _______________________________________________________________________ */}
+          <div className="carditems">
+            <div className="card m-auto">
+              <img
+                className="card-img-top"
+                src={example}
+                alt="Card cap"
+              />
+              <div className="card-body">
+                <h5 className="card-title">Card title</h5>
+               
+                <a href="/villdis" id="bulla" onClick={props.moreabvill("mudang")} className="btn btn-primary">
+                  learn more
+                </a>
+              </div>
+            </div>
+          </div>
+          {/* _______________________________________________________________________ */}
+          
           
         </div>
         <div className="bg-dark" style={{color: 'white',textAlign:'center'}}>
