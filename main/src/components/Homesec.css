@@ -20,6 +20,22 @@
     background-color: rgb(244, 229, 229);       
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  ;
 }
+.home2{
+    color: whitesmoke;
+    text-align: center;
+
+}
+.home2 p{
+    margin: 0px 50px;
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-shadow: 3px 3px 9px black;
+}
+.home2 h1{
+    padding: 20px 0px;
+    text-shadow: 3px 3px 9px black;
+    text-align: center;
+}
 
 
 @media only screen and (max-width: 600px) {

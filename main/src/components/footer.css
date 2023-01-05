@@ -1,8 +1,12 @@
 .footerc{
     height: 40px;
     display: flex;
-    align-items: center;
+   
     justify-content: center;
+    
     background-color: black;
     color: white;
+}
+.footerc p{
+    padding-top: 5px;
 }
