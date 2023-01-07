@@ -1,0 +1,19 @@
+import React from 'react'
+import './about.css'
+
+export default function About() {
+  return (
+    <>
+    <div className="aboutsec bg-dark">
+        <h2>AllZiro is a non-government-organisation non profit company that helps people to know more about Ziro</h2>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aspernatur vero nemo repellendus rem iure sed fuga sit delectus laudantium rerum incidunt debitis id fugit ea quos odit, voluptatibus illo dicta ipsum mollitia assumenda nulla possimus asperiores. Tempore ipsum, voluptates ad vitae optio exercitationem corporis! Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolores error deleniti cum sequi voluptas, ex quaerat est sapiente impedit laudantium autem magni repudiandae praesentium laborum natus labore, dignissimos optio recusandae itaque architecto aliquam odio velit voluptatem? Et vel ad, a inventore facere libero, vitae laborum sunt, rem voluptatum cupiditate accusantium ratione quo aperiam provident facilis pariatur maxime deleniti. Quae facere quis harum ullam commodi? Distinctio harum aut voluptatem animi doloremque quidem excepturi veniam a, impedit possimus modi perferendis voluptatibus dolore sed et corporis vel at recusandae dolorem rem qui ipsum odio tenetur ab. Fugiat explicabo iste iusto facere soluta assumenda, dignissimos magnam facilis labore magni perspiciatis, dicta voluptatum nobis pariatur reprehenderit ullam quam esse nulla in sit. Atque, repellendus reprehenderit. </p>
+        <h2>this is the second heading</h2>
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corrupti optio hic eveniet quod laborum nulla porro itaque beatae sed consectetur aut odio, nesciunt, iste asperiores. Dolores ex provident cupiditate reiciendis optio et sunt, cum eos impedit praesentium sit perferendis facilis cumque commodi ea doloribus enim ducimus dicta laboriosam eligendi voluptatum. Accusamus ut quisquam vero dolores nihil, laboriosam nisi in delectus ratione aperiam necessitatibus cupiditate, rerum voluptate animi esse. Ullam necessitatibus quas hic temporibus veniam tenetur repellendus aliquam asperiores provident dolor illo commodi tempore ea, distinctio voluptatem minus facere iusto impedit nam id cupiditate cum quis ad. Aspernatur, vitae voluptatibus asperiores quos accusamus dolorem corrupti facere alias exercitationem quia fugiat tempora debitis voluptatem pariatur. Debitis optio neque quaerat, vel quasi hic eveniet architecto magnam quod veniam minima enim a unde voluptate cupiditate. Aliquam nulla unde eligendi assumenda iste voluptate repellat velit adipisci. Repellat harum atque repellendus ut rem nemo incidunt vitae delectus at dolores ipsam quas consequuntur suscipit nam adipisci, aliquam labore commodi obcaecati ad minima error enim repudiandae aut sunt. Fugiat reiciendis doloribus saepe quod mollitia ipsa dolores, porro nam quibusdam quis explicabo placeat dignissimos accusamus, officia quo. Quis tempore debitis ipsum beatae necessitatibus dolorum sapiente cumque ea harum rerum!</p>
+        <h2>this is the third heading</h2>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus sit, aliquam reiciendis quasi dicta rem suscipit vel blanditiis perferendis ab nulla facilis molestiae expedita ducimus voluptas cumque deserunt quaerat nisi quae quos. Optio, perferendis? Atque minus id itaque corporis eos sequi tenetur ex totam officiis rerum ducimus perferendis sint blanditiis, necessitatibus mollitia est architecto placeat vitae earum fuga dolores omnis at quas? Illo, delectus natus quidem corporis sunt, vero repudiandae vel nemo unde dicta omnis sapiente quaerat accusantium hic voluptate minus quam ducimus ab architecto. Voluptatum consequuntur quo quae, autem cumque quam cum, nobis tempora architecto enim porro vitae facere.</p>
+
+    </div>
+
+    </>
+  )
+}

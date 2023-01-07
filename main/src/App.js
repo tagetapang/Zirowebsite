@@ -6,6 +6,7 @@ import { BrowserRouter, Routes, Route }from "react-router-dom";
 import Mudangtage from "./components/aboutvillages/Mudangtage";
 import Footer from "./components/Footer";
 import Hija from "./components/aboutvillages/Hija";
+import About from "./components/About";
 
 
 
@@ -19,6 +20,7 @@ function App() {
             <Route exact path="/" element={<Homesection />}/>
             <Route exact path="/mudangtage" element={<Mudangtage/>}/>
             <Route exact path ="/hija" element={<Hija/>}/>
+            <Route exact path ="/about" element={<About/>}/>
            
             
 

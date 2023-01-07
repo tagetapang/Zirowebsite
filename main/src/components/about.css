@@ -1,0 +1,12 @@
+.aboutsec{
+    min-height: 80vh;
+    text-align: left;
+    padding-left: 2rem;
+    padding-top: 2rem;
+    color: white;
+    
+}
+.aboutsec p{
+    margin-bottom: 0;
+    padding-bottom: 2rem;
+}
